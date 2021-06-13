@@ -1,0 +1,33 @@
+{
+  "name": "ex-xiaomi-shop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DaYePython/xiaomi-shop.git",
+  "author": "yesongsheng <yesongsheng@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.14.5",
+    "@babel/preset-env": "^7.14.5",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-content-includer": "^0.0.7",
+    "gulp-dart-scss": "^1.1.0",
+    "gulp-file-includer": "^1.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-jslint": "^1.0.10",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^2.0.0",
+    "gulp-run-sequence": "^0.3.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-watch": "^5.0.1",
+    "gulp-webserver": "^0.9.1",
+    "node-gyp": "^8.1.0",
+    "run-sequence": "^2.2.1"
+  },
+  "dependencies": {}
+}
